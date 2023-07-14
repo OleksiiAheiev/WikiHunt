@@ -22,10 +22,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-// style = {{
-//   backgroundImage: `url('../public/wiki-logo.png')`,
-//     height: '100vh',
-//       backgroundRepeat: 'no-repeat',
-//         backgroundSize: 'cover',
-//       }}>
